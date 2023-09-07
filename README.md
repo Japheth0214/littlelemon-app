@@ -19,3 +19,14 @@ Here are some screeenshots of the application showcasing the Booking functionali
 ![image](https://github.com/Japheth0214/littlelemon-app/assets/122435035/950e2e57-1d67-4260-ad5c-6fb64e316c0a)
 
 ![image](https://github.com/Japheth0214/littlelemon-app/assets/122435035/cfed8071-09a9-4de9-b4be-c690a6f9de3f)
+
+![image](https://github.com/Japheth0214/littlelemon-app/assets/122435035/416a8ba0-9a2d-4f9d-b8a0-9e37765ec796)
+
+![image](https://github.com/Japheth0214/littlelemon-app/assets/122435035/f609c6a5-2ab7-4f94-9a46-c48b6fa0b74d)
+
+![image](https://github.com/Japheth0214/littlelemon-app/assets/122435035/03d7d215-f0cf-43ba-8ee1-53ab06f9f3e6)
+
+
+
+
+
