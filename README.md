@@ -7,6 +7,10 @@ This website showcased implementing a booking application on the Little Lemon We
 
 Please note: The only functionality working on this website besides the design is the **Reserve a Table function.**
 
+**To run command on terminal:**
+npm install
+npm start
+
 ## Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
 
