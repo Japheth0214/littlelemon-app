@@ -16,7 +16,7 @@ Here are some screeenshots of the application showcasing the Booking functionali
 
 ![little lemon website table booking](/src/images/github-cover.png)
 
-![image](https://github.com/Japheth0214/littlelemon-app/assets/122435035/950e2e57-1d67-4260-ad5c-6fb64e316c0a)
+![image](https://github.com/Japheth0214/littlelemon-app/assets/122435035/f42706a4-099d-4e7b-b75a-64e57ffe8454)
 
 ![image](https://github.com/Japheth0214/littlelemon-app/assets/122435035/cfed8071-09a9-4de9-b4be-c690a6f9de3f)
 
