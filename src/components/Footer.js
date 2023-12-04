@@ -7,17 +7,15 @@ const Footer = () => {
             <section>
             <div className="company-info">
                 <img src={small_logo} alt=""/>
-                <p>We are a family owned Filipino restaurant, focused on traditional recipes servred with a modern twist.</p>
+                <p>This project was created during Meta's Coursera Front-End Development Capstone course.</p>
+                <p>The Little Lemon Website, developed using React components, demonstrates the implementation of a booking application with functional Reserve a Table capability and incorporates API calls.</p>
             </div>
             <div>
                 <h3>Important Links</h3>
             <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="/">About</a></li>
-                <li><a href="/">Menu</a></li>
                 <li><a href="/booking">Reservations</a></li>
                 <li><a href="/recipes">Order Online</a></li>
-                <li><a href="/">Login</a></li>
             </ul>
             </div>
             <div>
